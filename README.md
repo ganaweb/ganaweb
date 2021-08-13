@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ganaweb
-- 👀 Sono interessato alla domotica con Home Assistant
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ganaweb/ganaweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Ciao, sono Gabriele e vivo a Roma.
+- 👀 Sono un appassionato di domotica e da quando ho ristrutturato il mio appartamento mi sono avvicinato al mondo di Home Assistant e ciò che lo circonda.
+- 🌱 Sto cercando di imparare quanto più possibile di questo mondo attingendo informazioni soprattutto da questo forum e dal relativo sito Indomus
+Vi ringrazio per tutto il tempo che dedicate alla community e ad aiutare persone nuove in questo settore come me.
